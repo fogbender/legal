@@ -6,9 +6,9 @@ Effective date: 04/13/2022
  
 Welcome to Fogbender Software, Inc.
  
-Fogbender Software, Inc. (“us”, “we”, or “our”) operates https://fogbender.com (hereinafter referred to as “Service”).
+Fogbender Software, Inc. (“us”, “we”, or “our”) operates https://fogbender.com and https://supafana.com (hereinafter referred to as “Service”).
  
-Our Privacy Policy governs your visit to https://fogbender.com, and explains how we collect, safeguard and disclose information that results from your use of our Service. 
+Our Privacy Policy governs your visit to https://fogbender.com and https://supafana.com, and explains how we collect, safeguard and disclose information that results from your use of our Service. 
  
 We use your data to provide and improve Service. By using Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
  
@@ -16,7 +16,7 @@ Our Terms and Conditions (“Terms”) govern all use of our Service and togethe
  
 2. Definitions
  
-SERVICE means the https://fogbender.com website operated by Fogbender Software, Inc.
+SERVICE means the https://fogbender.com and https://supafana.com website operated by Fogbender Software, Inc.
  
 PERSONAL DATA means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
  
